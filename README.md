@@ -81,6 +81,7 @@
             + NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE + " INTEGER"
             + ");");
     }
+```
 通过**Cursor**从数据库中读取出：<br>
 ```
 Cursor cursor = managedQuery(
