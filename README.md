@@ -320,8 +320,6 @@ public static final int RED_COLOR = 4; //红
             NotePad.Notes.COLUMN_NAME_BACK_COLOR
     };
 ```
-
-```
 先在菜单文件中添加一个更改背景的选项：<br>
 ```
 <item android:id="@+id/menu_color"
